@@ -1,0 +1,14 @@
+{
+    "type": "mashup",
+    "name": "react-mashup",
+    "description": "Teste do primneiro mashup com react",
+    "version": "1.0.0",
+    "author": "",
+    "homepage": "",
+    "keywords": "qlik-sense, visualization, mashup",
+    "license": "",
+    "repository": "",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+	 }
+}
